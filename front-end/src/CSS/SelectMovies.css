@@ -1,0 +1,15 @@
+.SM_heading{
+    width: 100%;
+    font-size: 22px;
+    color: black;
+}
+
+.select-movie-container{
+    width: 60%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+    color: black;  
+
+} 
